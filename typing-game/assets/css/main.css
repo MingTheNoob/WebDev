@@ -1,0 +1,12 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+}
+
+.highlight {
+	background-color: yellow;
+}
+
+.error {
+	background-color: lightcoral;
+	border-color: red;
+}
