@@ -38,6 +38,6 @@ ___
         <a href="https://utilities.ming.jp.net/web-tools/extensions/DuoHacker">DuoHacker as an Extension</a> - <a href="https://github.com/MingTheNoob/DuoHacker/extension"><i>Source</i></a>
     </li>
     <li>
-        <a href="https://utilities.ming.jp.net/web-tools/extensions/QuickLinks">QuickLinks Extension (in development)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i> Extension Source</i></a> - <a href="https://github.com/MingTheNoob/QuickLinksBackend"><i> Backend Source</i></a>
+        <a href="https://utilities.ming.jp.net/web-tools/extensions/QuickLinks">QuickLinks (in development)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i>Source</i></a>
     </li>
 </ul>
