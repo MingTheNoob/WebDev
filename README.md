@@ -9,7 +9,7 @@
 ___
 &nbsp;
 
-<img align="center" src="https://cdn.ming.jp.net/web-tools/imgs/cover.png">
+<img align="center" src="https://cdn.ming.jp.net/utilities/web-tools/imgs/cover.png">
 
 &nbsp;
 ___
