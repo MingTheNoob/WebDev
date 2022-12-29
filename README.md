@@ -28,6 +28,6 @@ ___
 <h2>Extensions</h2>
 <ul>
     <li>
-        <a href="https://mingsutilities.com/web-tools/extensions/QuickLinks">QuickLinks (in development)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i>Source</i></a>
+        <a href="https://mingsutilities.com/web-tools/extensions/QuickLinks">QuickLinks (in beta)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i>Source</i></a>
     </li>
 </ul>
