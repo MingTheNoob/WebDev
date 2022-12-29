@@ -9,35 +9,35 @@
 ___
 &nbsp;
 
-<img align="center" src="https://cdn.ming.jp.net/utilities/web-tools/imgs/cover.png">
+<img align="center" src="https://cdn.mingsutilities.com/utilities/web-tools/imgs/cover.png">
 
 &nbsp;
 ___
 <h2>Userscripts</h2>
 <ul>
     <li>
-        <a href="https://utilities.ming.jp.net/web-tools/userscripts/DuoHacker">DuoHacker</a> - <a href="https://github.com/MingTheNoob/DuoHacker/userscript"><i>Source</i></a>
+        <a href="https://mingsutilities.com/web-tools/userscripts/DuoHacker">DuoHacker</a> - <a href="https://github.com/MingTheNoob/DuoHacker/userscript"><i>Source</i></a>
     </li>
 </ul>
 
 <h2>VanillaJS</h2>
 <ul>
     <li>
-        <a href="https://utilities.ming.jp.net/web-tools/gdrive-dl-link-generator/">GDrive Download Link Generator</a> - <a href="https://github.com/MingTheNoob/GDriveDownloadLinkGenerator"><i>Source</i></a>
+        <a href="https://mingsutilities.com/web-tools/gdrive-dl-link-generator/">GDrive Download Link Generator</a> - <a href="https://github.com/MingTheNoob/GDriveDownloadLinkGenerator"><i>Source</i></a>
     </li>
     <li>
-        <a href="https://utilities.ming.jp.net/web-tools/qr-code-generator/">QR Code Generator</a> - <a href="https://github.com/MingTheNoob/QRCodeGenerator"><i>Source</i></a>
+        <a href="https://mingsutilities.com/web-tools/qr-code-generator/">QR Code Generator</a> - <a href="https://github.com/MingTheNoob/QRCodeGenerator"><i>Source</i></a>
     </li>
     <li>
-        <a href="https://utilities.ming.jp.net/web-tools/pw-gen/">Password Generator</a> - <a href="https://github.com/MingTheNoob/PasswordGenerator"><i>Source</i></a>
+        <a href="https://mingsutilities.com/web-tools/pw-gen/">Password Generator</a> - <a href="https://github.com/MingTheNoob/PasswordGenerator"><i>Source</i></a>
     </li>
 </ul>
 <h2>Extensions</h2>
 <ul>
     <li>
-        <a href="https://utilities.ming.jp.net/web-tools/extensions/DuoHacker">DuoHacker as an Extension</a> - <a href="https://github.com/MingTheNoob/DuoHacker/extension"><i>Source</i></a>
+        <a href="https://mingsutilities.com/web-tools/extensions/DuoHacker">DuoHacker as an Extension</a> - <a href="https://github.com/MingTheNoob/DuoHacker/extension"><i>Source</i></a>
     </li>
     <li>
-        <a href="https://utilities.ming.jp.net/web-tools/extensions/QuickLinks">QuickLinks (in development)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i>Source</i></a>
+        <a href="https://mingsutilities.com/web-tools/extensions/QuickLinks">QuickLinks (in development)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i>Source</i></a>
     </li>
 </ul>
