@@ -12,13 +12,6 @@ ___
 <img align="center" src="https://cdn.mingsutilities.com/utilities/web-tools/imgs/cover.png">
 
 &nbsp;
-___
-<h2>Userscripts</h2>
-<ul>
-    <li>
-        <a href="https://mingsutilities.com/web-tools/userscripts/DuoHacker">DuoHacker</a> - <a href="https://github.com/MingTheNoob/DuoHacker/userscript"><i>Source</i></a>
-    </li>
-</ul>
 
 <h2>VanillaJS</h2>
 <ul>
