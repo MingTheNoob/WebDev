@@ -13,21 +13,26 @@ ___
 
 &nbsp;
 
-<h2>VanillaJS</h2>
+<h2>
+    <a href="https://mingsutilities.com/dir/web-tools/web-apps/">Web Apps</a>
+</h2>
 <ul>
     <li>
-        <a href="https://mingsutilities.com/web-tools/gdrive-dl-link-generator/">GDrive Download Link Generator</a> - <a href="https://github.com/MingTheNoob/GDriveDownloadLinkGenerator"><i>Source</i></a>
+        <a href="https://mingsutilities.com/dir/web-tools/web-apps/colour-picker/">Colour Picker</a> - <a href="https://github.com/MingTheNoob/ColourPicker"><i>Source</i></a>
     </li>
     <li>
-        <a href="https://mingsutilities.com/web-tools/qr-code-generator/">QR Code Generator</a> - <a href="https://github.com/MingTheNoob/QRCodeGenerator"><i>Source</i></a>
+        <a href="https://mingsutilities.com/dir/web-tools/web-apps/gdrive-dl-link-generator/">GDrive Download Link Generator</a> - <a href="https://github.com/MingTheNoob/GDriveDownloadLinkGenerator"><i>Source</i></a>
     </li>
     <li>
-        <a href="https://mingsutilities.com/web-tools/pw-gen/">Password Generator</a> - <a href="https://github.com/MingTheNoob/PasswordGenerator"><i>Source</i></a>
+        <a href="https://mingsutilities.com/dir/web-tools/web-apps/qr-code-generator/">QR Code Generator</a> - <a href="https://github.com/MingTheNoob/QRCodeGenerator"><i>Source</i></a>
+    </li>
+    <li>
+        <a href="https://mingsutilities.com/dir/web-tools/web-apps/pw-gen/">Password Generator</a> - <a href="https://github.com/MingTheNoob/PasswordGenerator"><i>Source</i></a>
     </li>
 </ul>
 <h2>Extensions</h2>
 <ul>
     <li>
-        <a href="https://mingsutilities.com/web-tools/extensions/QuickLinks">QuickLinks (in beta)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i>Source</i></a>
+        <a href="https://mingsutilities.com/dir/web-tools/extensions/QuickLinks">QuickLinks (in beta)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i>Source</i></a>
     </li>
 </ul>
