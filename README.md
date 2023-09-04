@@ -30,9 +30,14 @@ ___
         <a href="https://mingsutilities.com/dir/web-tools/web-apps/pw-gen/">Password Generator</a> - <a href="https://github.com/MingTheNoob/PasswordGenerator"><i>Source</i></a>
     </li>
 </ul>
-<h2>Extensions</h2>
+<h2>
+    <a href="https://mingsutilities.com/dir/web-tools/extensions/">Extensions</a>
+</h2>
 <ul>
     <li>
         <a href="https://mingsutilities.com/dir/web-tools/extensions/QuickLinks">QuickLinks (in beta)</a> - <a href="https://github.com/MingTheNoob/QuickLinks"><i>Source</i></a>
+    </li>
+    <li>
+        <a href="https://mingsutilities.com/dir/web-tools/extensions/SuperScript">SuperScript (upcoming)</a> - <a href="https://github.com/MingTheNoob/SuperScript"><i>Source</i></a>
     </li>
 </ul>
